@@ -1,1 +1,0 @@
-#Silhouette Method and exact number clusters 
